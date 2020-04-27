@@ -11,3 +11,8 @@ The revamped `reactlog` provides an updated visual display to traverse through t
 April 29, 2020<br/>
 Statistical Programming DC<br/>
 Washington, DC
+
+
+### Slides
+
+[http://schloerke.com/presentation-2020-04-29-reactlog/](http://schloerke.com/presentation-2020-04-29-reactlog/)
