@@ -7,8 +7,7 @@ The revamped `reactlog` provides an updated visual display to traverse through t
 
 ### Event
 
-Remote Meetup: Shiny Deep Dive<br/>
+[Remote Meetup: Shiny Deep Dive](https://www.meetup.com/stats-prog-dc/events/269909997/)<br/>
 April 29, 2020<br/>
 Statistical Programming DC<br/>
 Washington, DC
-https://www.meetup.com/stats-prog-dc/events/269909997/
