@@ -17,7 +17,7 @@ shinyApp(
     })
 
     ### Good
-    click_count <- reactive({
+    click_count <- eventReactive(input$button, {
       # requires a non-zero (Truthy) value
       # Prevents the image from appearing until button is clicked
       req(input$button)
